@@ -1,26 +1,31 @@
 <h1>Hi, I'm Prince Collins! <br/><a href="https://www.linkedin.com/in/princecollins/">Cybersecurity Professional</a></h1>
 
+Hi, I’m Prince-Collins, an aspiring cybersecurity professional with a strong passion for protecting digital assets and securing cloud environments. I have a solid foundation in network security, threat analysis, and cloud security, and I enjoy tackling challenges that help strengthen cybersecurity defenses. I’m always eager to learn and stay updated with the latest security trends, ensuring I can adapt to the ever-evolving threat landscape. I’m excited to apply my skills and grow in a dynamic security team where I can make a real impact.
+
+
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Active Directory Project</b>
   - [Setting Up and Securing an Active Directory Lab on Oracle VirtualBox](https://github.com/Colliwry/Active-directory-lab)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+- <b>Vulnerability Management</b>
+  - [Tenable nesus vulnerability management lab](https://github.com/Colliwry/Tenable-nesus-vulnerability-management)
+- <b>Cloud security</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
+- <b>Security Operations</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Update a file through a Python algorithm](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>Certifications</h2>
-- <b>Google cyber security certificate</b>
-  -<h2> 🤳 Connect with me:</h2>
+<b>Google cyber security certificate</b> <br>
+<b>AZ 500</b>
+
+<h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -29,18 +34,3 @@
 [twitter]: https://twitter.com/colliwry
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/princecollins
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
