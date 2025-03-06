@@ -19,7 +19,7 @@ Hi, I’m Prince-Collins, an aspiring cybersecurity professional with a strong p
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Update a file through a Python algorithm](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Update a file through a Python algorithm](https://github.com/Colliwry/Update-a-file-through-a-Python-algorithm)
 
 <h2>Certifications</h2>
 <b>Google cyber security certificate</b> <br>
